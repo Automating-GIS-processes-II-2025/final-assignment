@@ -11,7 +11,7 @@ Once you are finished with the final assignment, edit this readme and add "x" to
 
 *If you have done this assignment in pair, write your groupmate's name here:* ----
 
-The final deadline for submission is **6.1.2025**.
+The final deadline for submission is **6.1.2026**.
 
 
 ### Instructions
